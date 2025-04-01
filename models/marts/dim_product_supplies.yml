@@ -1,5 +1,5 @@
 models:
-  - name: dim_product_supplies
+  - name: row_supplies
     access: public
     group: product
     config:

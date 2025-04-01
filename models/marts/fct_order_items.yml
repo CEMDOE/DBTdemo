@@ -1,5 +1,5 @@
 models:
-  - name: fct_order_items
+  - name: row_order
     access: public
     group: finance
     config:
